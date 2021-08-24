@@ -1,5 +1,4 @@
 <h1>Hi Traveller, I am <a href="https://saurabh4748.netlify.app/">Saurabh</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/saurabh4748/saurabh4748/blob/main/me.jpg" width="230" />
  <h4>🔭 I’m currently pursuing B.E. in Computer Science from Panjab University. I expect to graduate in 2022.</h4>
  <h2>📫 How to reach me:</h2>
 <a href="https://www.linkedin.com/in/saurabh4748"><img src="https://github.com/saurabh4748/saurabh4748/blob/main/logos/linkedin.png?raw=true" width="40" /></a>
