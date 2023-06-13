@@ -1,6 +1,5 @@
 # 💫 About Me:
-##  Associate Engineer
-<br> Solution-oriented and a Computer scientist willing to demonstrate my worth and ability. Driven to improve and broaden my skill set via focused<br>mentoring and challenging assignments.
+Associate Engineer<br>Solution-oriented and a Computer scientist willing to demonstrate my worth and ability. Driven to improve and broaden my skill set via focused<br>mentoring and challenging assignments.
 
 
 ## 🌐 Socials:
