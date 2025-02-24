@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Software Engineer<br>
+## Data Engineer<br>
 Solution-oriented and a Computer scientist willing to demonstrate my worth and ability. Driven to improve and broaden my skill set via focused<br>mentoring and challenging assignments.
 
 
